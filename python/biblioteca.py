@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 def gera_nome_convite(convite):
     posicao_final = len(convite)
     posicao_inicial = posicao_final - 4
